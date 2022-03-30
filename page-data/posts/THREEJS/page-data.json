@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-template-js",
+    "path": "/posts/THREEJS",
+    "result": {"pageContext":{"currentCategory":"THREEJS","categories":["All","THREEJS","featured","블로그"],"edges":[{"node":{"id":"879763a9-c242-5361-81b8-9a73a2b91d72","excerpt":"최근 스크롤 인터렉션 웹 사이트 공부를 하면서, 더 화려하고 멋진 3D 웹사이트 구현에 자연스레 관심이 생겼다.\n사실 나는 이전에 Threejs를 살짝 공부했다가 좌절한 경험이 있는데… 너무 매력적인 프레임워크지만, 쉽게 접할 수 있는 설명은 대부분 영어로 되어있어 Canvas도 미숙한 내게는 너무 어려웠었다.  하지만 3D웹 사이트를 구현하고픈 나의 욕심이 나를 다시 Threejs앞으로 이끌었다. 이번에는 꼭 좋은 성과를 이루길 바라며 다시 기초부터 공부를 시작해보자!! 개발 환경은 webpack + module threejs를 바탕으로 진행했습니다. 👋 Three.js란? Three.js는 웹페이지에 3D객체를 쉽게 렌더링하도록 도와주는 자바스크립트 3D 라이브러리이다.\nThree.js는 3D객체를 렌더링하는데 을 사용합니다. WebGL(web Graphics Library)  점, 섬, 삼각형만 그리는 아주 단순한 자바스크립트 WebGL로 작업하려면 작업량이 많아지고 코드 자…","fields":{"slug":"/basic-of-threejs/"},"frontmatter":{"categories":"THREEJS featured","title":"Three.js의 기초를 알아보자!","date":"March 23, 2022"}},"next":{"fields":{"slug":"/gatsby-github-blog/"}},"previous":null}]}},
+    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
