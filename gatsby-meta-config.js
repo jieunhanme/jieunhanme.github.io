@@ -1,12 +1,12 @@
 module.exports = {
   title: `jieunhanme.github.io`,
-  description: `줌코딩의 개발일기`,
+  description: `UI/UX 개발일기`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://jieunhanme.github.io`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
-      repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
+      repo: `jieunhanme/blog-comments`, // `zoomkoding/zoomkoding-gatsby-blog`,
     },
   },
   ga: '0', // Google Analytics Tracking ID
@@ -18,9 +18,9 @@ module.exports = {
       thumbnail: 'me_small.gif', // Path to the image in the 'asset' folder
     },
     social: {
-      github: ``, // `https://github.com/zoomKoding`,
+      github: `https://github.com/jieunhanme`, // `https://github.com/zoomKoding`,
       linkedIn: ``, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
-      email: ``, // `zoomkoding@gmail.com`,
+      email: `jieun93.H@gmail.com`, // `zoomkoding@gmail.com`,
     },
   },
 
