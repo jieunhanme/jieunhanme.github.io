@@ -7,7 +7,7 @@ tags: 블로그 threejs 3d WebGL
 categories: Javasctipt featured
 ---
 
-## 🤔 Animation Loop는 언제 실행될까요?
+## 🤔 Animation Loop는 언제 실행되나요?
 
 ![DOM Performance](./javascript-animation-loop-01.png)
 
@@ -19,8 +19,8 @@ categories: Javasctipt featured
 Animation Loop는 브라우저 렌더링 과정에서 `repaint` 이전 단계에서 진행됩니다.
 
 - **Reflow** 모든 요소의 크기와 위치를 다시 계산하는 과정
-- **Repaint** reflow 다음 단계, 레이아웃을 제외한 요소가 그려지는 방식
-- **Composite** 다양한 요소를 레이어로 그룹화하고 이러한 레이어를 래스터화
+- **Repaint** reflow 다음 단계, 레이아웃을 제외한 요소가 그려지는 과정
+- **Composite** 다양한 요소를 레이어로 그룹화하고 이러한 레이어를 래스터화는 과정
 
 ---
 
