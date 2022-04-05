@@ -1,7 +1,7 @@
 ---
 emoji: 🧗‍♂️
 title: Three.js의 기초를 알아보자!
-date: '2022-03-23 14:30:00'
+date: '2022-03-30 17:30:00'
 author: 한지은
 tags: 블로그 threejs 3d WebGL
 categories: THREEJS featured
