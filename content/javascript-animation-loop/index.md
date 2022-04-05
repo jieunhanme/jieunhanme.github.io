@@ -3,7 +3,7 @@ emoji: 🎨
 title: 어떤 Animation Loop를 사용하는게 좋을까?
 date: '2022-04-05 14:30:00'
 author: 한지은
-tags: 블로그 threejs 3d WebGL
+tags: 블로그 javascript canvas animation
 categories: Javasctipt featured
 ---
 
@@ -18,9 +18,7 @@ categories: Javasctipt featured
 
 Animation Loop는 브라우저 렌더링 과정에서 `repaint` 이전 단계에서 진행됩니다.
 
-- **Reflow** 모든 요소의 크기와 위치를 다시 계산하는 과정
-- **Repaint** reflow 다음 단계, 레이아웃을 제외한 요소가 그려지는 과정
-- **Composite** 다양한 요소를 레이어로 그룹화하고 이러한 레이어를 래스터화는 과정
+> **Reflow** <br /> 모든 요소의 크기와 위치를 다시 계산하는 과정 <br /> **Repaint** <br /> reflow 다음 단계, 레이아웃을 제외한 요소가 그려지는 과정<br /> **Composite** <br />다양한 요소를 레이어로 그룹화하고 이러한 레이어를 래스터화는 과정
 
 ---
 
@@ -176,8 +174,7 @@ const requestAnimationFrame = (() => {
 })();
 ```
 
-<br />
-<br />
+---
 
 틀린 설명 혹은 보충이 필요한 설명은 코멘트 달아주시면 감사하겠습니다! 🙏
 
