@@ -18,7 +18,7 @@ categories: Threejs featured
 
 ![threejs로 만들었던 결과물](./basic-of-threejs-02.png)
 
-<p style="color: #9E9E9E; font-size: 14px; text-align:center; margin: -30px 10px 0 10px;">그 당시 만들었던 3D 오브젝트... 선로를 따라 달리는 말을 표현하고 싶었지만 개념 이해를 제대로 하지 못해 결국 포기했다.개념을 제대로 익히지 않은 상태로 REACT로 개발한것도 한몫 했다.</p>
+<p class="img-caption" style="margin: -30px 10px 0 10px;">그 당시 만들었던 3D 오브젝트... 선로를 따라 달리는 말을 표현하고 싶었지만 개념 이해를 제대로 하지 못해 결국 포기했다.개념을 제대로 익히지 않은 상태로 REACT로 개발한것도 한몫 했다.</p>
 <br />
 
 하지만 3D웹 사이트를 구현하고픈 나의 욕심이 나를 다시 Threejs앞으로 이끌었다. 이번에는 꼭 좋은 성과를 이루길 바라며 다시 기초부터 공부를 시작해보자!!
@@ -41,7 +41,7 @@ WebGL로 작업하려면 작업량이 많아지고 코드 자체도 복잡해질
 
 ![structure of threejs](./basic-of-threejs-03.png)
 
-<p style="color: #9E9E9E; font-size: 14px; text-align:center; margin: -15spx 10px 0 10px;">
+<p class="img-caption" style="margin: -15px 10px 0 10px;">
 three.js에서 제공하는 다이어그램
 </p>
 <br />
@@ -113,7 +113,7 @@ scene.add(light);
 
 ![안개와 광원 효과 추가](./basic-of-threejs-07.png)
 
-<p style="color: #9E9E9E; font-size: 14px; text-align:center; margin: -5px 10px 0 10px;">
+<p class="img-caption" style="margin: -5px 10px 0 10px;">
     광원이 있어야 보이는 3D Object을 사용했습니다. 안개색은 배경와 같은 색을 사용하면 <b>Shadow</b>효과를 낼 수 있습니다.
 </p>
 <br />
@@ -124,7 +124,7 @@ scene.add(light);
 
 ![카메라 절두체(viewing frustum)](./basic-of-threejs-04.gif)
 
-<p style="color: #9E9E9E; font-size: 14px; text-align:center; margin: -15px 10px 0 10px;">
+<p class="img-caption" style="margin: -15px 10px 0 10px;">
     시야각, 종횡비, <span style="color: rgb(110, 250,34)">near</span>, <span style="color: rgb(228, 64, 36)">far</span>에 따라 보이는 Scene이 변합니다.
 </p>
 <br />
@@ -174,7 +174,7 @@ scene.add(camera);
     <img src="./basic-of-threejs-05.png" alt="원근 카메라(Perspective Camera)"/>
     <img src="./basic-of-threejs-06.png" alt="직교 카메라(Orthographic Camera)"/>
 </div>
-<p style="color: #9E9E9E; font-size: 14px; text-align:center; margin: 10px 10px 0 10px;">
+<p class="img-caption" style="margin: 10px 10px 0 10px;">
     왼쪽이 <b>Perspective Camera</b>, 오른쪽이 <b>Orthographic Camera</b>로 담긴 Scene입니다.
 </p>
 <br/>

@@ -11,7 +11,7 @@ categories: Javasctipt featured
 
 ![DOM Performance](./javascript-animation-loop-01.png)
 
-<p style="color: #9E9E9E; font-size: 14px; text-align:center; margin: -20px 10px 0 10px;">
+<p class="img-caption" style="margin: -20px 10px 0 10px;">
 브라우저의 렌더링 과정의 일부분
 </p>
 <br />
@@ -32,7 +32,7 @@ setInterval의 두번째 인자에 `인터벌`을 기입해 애니메이션의 *
 
 ![setInterval, setTimeout flow](./javascript-animation-loop-02.png)
 
-<p style="color: #9E9E9E; font-size: 14px; text-align:center; margin: -15px 10px 0 10px;">
+<p class="img-caption" style="margin: -15px 10px 0 10px;">
 Jank: 스크롤, 전환 또는 애니메이션과 같이 화면의 움직임이 있을 때 사용자가 경험하는 버벅거림
 </p>
 <br />
@@ -118,7 +118,7 @@ requestAnimationFrame(requestRender);
 
 <video src="javascript-animation-loop-04.mov" loop muted Autoplay=autoplay style="width: 100%; height: 100%; object-fit: cover;"></video>
 
-<p style="color: #9E9E9E; font-size: 14px; text-align:center; margin: -25px 10px 0 10px;">
+<p class="img-caption" style="margin: -25px 10px 0 10px;">
 setInterval과 requestAnimationFrame을 실행한 화면, 해당 영상은 120Hz의 디스플레이에서 녹화했습니다.
 </p>
 <br />
