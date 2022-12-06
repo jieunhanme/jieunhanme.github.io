@@ -3,8 +3,8 @@ emoji: 🎨
 title: 어떤 Animation Loop를 사용하는게 좋을까?
 date: '2022-04-05 14:30:00'
 author: 한지은
-tags: 블로그 javascript canvas animation
-categories: Javasctipt featured
+tags: 블로그 JavaScript canvas animation
+categories: JavaScript
 ---
 
 ## 🤔 Animation Loop는 언제 실행되나요?
