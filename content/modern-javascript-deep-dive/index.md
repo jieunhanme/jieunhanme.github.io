@@ -22,8 +22,7 @@ categories: JavaScript featured
 <div class="codebox-title">목차</div>
 <div style="border-radius:3px; padding:1em 0 0 0; border: 1px solid rgba(128, 128, 128, 0.256);background: rgba(178, 178, 178, 0.08); margin: 0.5em 0;">
 
-1. [변수란 무엇인가]()<sub>[2022/12/06]</sub>
-2. [변수란 무엇인가]()
+1. [변수](https://jieunhanme.github.io/modern-javascript-deep-dive/01.변수/)
 
 </div>
 
